@@ -78,8 +78,6 @@ The analysis is based on survey and demographic datasets containing:
 README.md
 report.pdf
 presentation.pdf
-
-datasets/
 code/
 ```
 
